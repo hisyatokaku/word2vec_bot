@@ -1,6 +1,7 @@
 #coding:utf-8
 #http://python-twitter.readthedocs.io/en/latest/_modules/twitter/models.html#Status
 #Statusのメソッド
+
 import twitter
 import ConfigParser
 import os
